@@ -3,7 +3,7 @@
 An end-to-end machine learning web application that estimates the market value of pre-owned vehicles based on their specifications. The project combines data preprocessing, regression model comparison, hyperparameter tuning, and Flask deployment to provide real-time price predictions.
 
 ---
-
+![Project Evolution](Pre-Owned_vehicle_price_prediction_system_thumbnail.png)
 # Why I Built This
 
 Buying or selling a pre-owned vehicle often involves uncertainty because pricing depends on multiple factors such as vehicle age, mileage, engine capacity, fuel type, transmission, and market demand.
